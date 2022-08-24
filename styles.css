@@ -40,15 +40,13 @@ body {
     font-size: 28px;
     font-weight: 700;
     color: rgb(255, 255, 255);
-
 }
 .links {
     list-style: none;
     display: flex;
 }
 .link-item {
-    margin-right: 75px;
-        
+    margin-right: 75px;        
 }
 .link {
     text-decoration: none;
@@ -56,7 +54,6 @@ body {
     font-weight: 500;
     font-size: 24px;
     transition: all 0.4s;
-
 }
 .link:hover {
     color: rgba(255, 255, 255, 1);
